@@ -1,0 +1,18 @@
+2021-02-18 21:05:36.092 +03:00 [INF] Starting up the service
+2021-02-18 21:05:42.754 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:05:50.505 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:05:58.461 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:06:05.878 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:06:13.284 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:06:22.072 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:10:16.650 +03:00 [INF] Starting up the service
+2021-02-18 21:10:23.624 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:10:31.526 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:30:17.322 +03:00 [INF] Starting up the service
+2021-02-18 21:30:20.891 +03:00 [INF] The service has been stopped...
+2021-02-18 21:31:31.317 +03:00 [INF] Starting up the service
+2021-02-18 21:31:38.503 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:31:46.061 +03:00 [INF] The website is up. Status code "OK"
+2021-02-18 21:31:49.393 +03:00 [INF] The service has been stopped...
+2021-02-19 01:52:13.527 +03:00 [INF] Starting up the service
+2021-02-19 01:52:20.202 +03:00 [INF] The service has been stopped...
